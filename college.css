@@ -41,8 +41,8 @@ body
     max-width: 850px;
     width: 100%;
     margin: 0 auto;
-    border: 1px solid white;
-    padding: 2px;
+    
+    
     overflow: hidden;
 }
 #first_wrap
@@ -93,7 +93,7 @@ height: 10rem;
 }
 .pe
 {
-    padding: 1rem;
+    padding: 2%;
 }
 .pe label
 {
@@ -111,12 +111,12 @@ height: 10rem;
     background-color: red;
     color: white;
     font-weight: bold;
-    width: 95%;
+    width: 85%;
     font-family:"Open Sans",sans-serif;
     font-size: 14px;
     border: none;
     padding: 0.7rem;
-    margin-left: 1rem;
+    margin-left: 2%;
     
 }
 #frm a
@@ -128,4 +128,33 @@ height: 10rem;
     padding-left: 1rem;
     margin-top: 0.5rem;
 }
+
+@media  screen and  (max-width:615px)
+{
+    #first_wrap
+{
+    display: none;
+}
+
+#second_wrap
+{
+    width: 98%;
+    
+   
+   
+   
+}
+.pe label , .pe select
+{
+    float: left;
+    width: 45%;
+}
+#frm #hj
+{
+    width: 88%;
+    margin-left: 2%;
+}
+}
+    
+
 
