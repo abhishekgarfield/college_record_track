@@ -1,0 +1,131 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border-top: 5px solid red;
+    background-color: #252525;
+}
+#main
+{
+    width: 100%;
+}
+#first_wrapper
+{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    text-align: center;
+}
+#logo
+{
+   width:inherit;
+     text-align: center;
+    color: red;
+    padding: 2px;
+
+}
+#logo img
+{
+    width:100%;
+    max-width: 213px;
+}
+#second_wrapper
+{
+    width: 100%;
+}
+#mid_wrap
+{
+    
+    background-color: #fff;
+    max-width: 850px;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 2px;
+    overflow: hidden;
+}
+#first_wrap
+{
+    width: 46%;
+    float: left;
+    Border-right: 2px solid black;
+    
+    
+    padding: 2px;
+    font-size: large;
+   
+   
+
+}
+#second_wrap
+{
+    width: 46%;
+    float:right;
+    height: 90%;
+    border: 1px solid white;
+    padding: 2px;
+    margin-right: 1.5rem;
+   
+}
+#quot
+{
+height: 10rem;
+}
+#imag 
+{
+    width:fit-content;
+    margin: 39px auto;
+}
+#hd
+{
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+#frm
+{
+    width: 95%;
+    padding: 2px;
+    background-color: #f6f6f6;
+    margin:0px auto;
+
+}
+.pe
+{
+    padding: 1rem;
+}
+.pe label
+{
+    display: block;
+    text-align: left;
+    margin-bottom: 2px;
+}
+.pe input
+{
+    width: 90%;
+    height: 1.5rem;
+}
+#frm #hj
+{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    width: 95%;
+    font-family:"Open Sans",sans-serif;
+    font-size: 14px;
+    border: none;
+    padding: 0.7rem;
+    margin-left: 1rem;
+    
+}
+#frm a
+{
+    display: block;
+    color: #bb0000;
+    text-decoration:none;
+    margin-top: 4px;
+    padding-left: 1rem;
+    margin-top: 0.5rem;
+}
+
