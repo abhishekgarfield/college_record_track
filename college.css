@@ -41,7 +41,7 @@ body
     max-width: 850px;
     width: 100%;
     margin: 0 auto;
-    
+    margin: auto;
     
     overflow: hidden;
 }
@@ -61,11 +61,11 @@ body
 #second_wrap
 {
     width: 46%;
+    
     float:right;
-    height: 90%;
-    border: 1px solid white;
-    padding: 2px;
-    margin-right: 1.5rem;
+    height: 27rem;
+    
+    padding: 0% 2%;
    
 }
 #quot
@@ -86,9 +86,10 @@ height: 10rem;
 #frm
 {
     width: 95%;
-    padding: 2px;
+    padding: 5% 2% 2% 2%;
     background-color: #f6f6f6;
     margin:0px auto;
+    height: 73%;
 
 }
 .pe
@@ -111,7 +112,7 @@ height: 10rem;
     background-color: red;
     color: white;
     font-weight: bold;
-    width: 85%;
+    width: 88%;
     font-family:"Open Sans",sans-serif;
     font-size: 14px;
     border: none;
@@ -138,7 +139,7 @@ height: 10rem;
 
 #second_wrap
 {
-    width: 98%;
+    width: 96%;
     
    
    
